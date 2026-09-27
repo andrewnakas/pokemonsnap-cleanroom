@@ -1,7 +1,4 @@
 __pycache__/
 *.pyc
+start.cmd
 *.z64
-*.n64
-*.v64
-*.zip
-baserom*
